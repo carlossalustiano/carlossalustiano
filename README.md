@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosEduardo-dev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardo-dev&bg_color=080808&color=fb74f2&line=e23c9d&point=922f8a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlos-developerr&bg_color=080808&color=fb74f2&line=e23c9d&point=922f8a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Linguagem de programação
 
