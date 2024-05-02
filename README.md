@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48C9B0&size=43&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Carlos+Eduardo+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48C9B0&size=41&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Carlos+Eduardo+👋)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-developerr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
