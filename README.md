@@ -45,25 +45,12 @@
 
 ---
 
-### 📁 **Highlighted Projects**
+### 📁 **Projects Highlighted**
 
-- [**Project One**](https://github.com/carlos-developerr/project-one): Brief description of the project.
-- [**Project Two**](https://github.com/carlos-developerr/project-two): Brief description of the project.
-
-### 🎓 **Certifications & Courses**
-
-- **Certification One** – Issuing Organization
-- **Certification Two** – Issuing Organization
+- [**Project One**](https://carlossalustiano.github.io/tela-login/): Full login screen. (Front-end).
+- [**Project Two**](https://carlossalustiano.github.io/conversor-dinheiro/): Value Converter (Front-end and Back-end).
 
 ### 🌐 **Connect with Me**
 
-- [LinkedIn](https://www.linkedin.com/in/carlos-developerr/)
-- [Twitter](https://twitter.com/carlos_developerr)
-- [Website/Blog](https://carlosdeveloperr.com)
-
-### 💬 **About Me**
-
-I am a passionate software developer who loves crafting solutions with JavaScript, TypeScript, and Java. My goal is to create impactful software that enhances user experiences and drives innovation. When I'm not coding, you'll find me exploring new technologies and learning about the latest trends in the tech industry.
-
----
+- [LinkedIn](https://www.linkedin.com/in/carlossalustiano/)
 
