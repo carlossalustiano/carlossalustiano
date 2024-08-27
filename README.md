@@ -6,11 +6,11 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-developerr&theme=transparent&bg_color=0D1117&border_color=00BFFF&show_icons=true&icon_color=00BFFF&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlossalustiano&theme=transparent&bg_color=0D1117&border_color=00BFFF&show_icons=true&icon_color=00BFFF&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlos-developerr&bg_color=0D1117&border_color=00BFFF&title_color=E94D5F&text_color=FFF&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlossalustiano&bg_color=0D1117&border_color=00BFFF&title_color=E94D5F&text_color=FFF&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlos-developerr&bg_color=0D1117&color=FB74F2&line=E94D5F&point=922f8a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlossalustiano&bg_color=0D1117&color=FB74F2&line=E94D5F&point=922f8a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
