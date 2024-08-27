@@ -47,7 +47,7 @@
 
 ### 📁 **Projects Highlighted**
 
-- [**Project One**](https://carlossalustiano.github.io/tela-login/): Full login screen. (Front-end).
+- [**Project One**](https://carlossalustiano.github.io/tela_login/): Full login screen. (Front-end).
 - [**Project Two**](https://carlossalustiano.github.io/conversor-dinheiro/): Value Converter (Front-end and Back-end).
 
 ### 🌐 **Connect with Me**
