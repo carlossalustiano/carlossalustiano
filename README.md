@@ -1,5 +1,4 @@
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00BFFF&size=50&center=true&vCenter=true&width=1000&lines=Hello,+I%27m+Carlos+Eduardo)](https://git.io/typing-svg)
 
