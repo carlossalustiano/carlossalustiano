@@ -14,10 +14,10 @@
 
 ---
 
-## 📁 Projects
+## 📁 Main Projects
 
-- [Full Login Screen](https://carlossalustiano.github.io/tela_login/): Front-end project.
-- [Value Converter](https://carlossalustiano.github.io/conversor-dinheiro/): Full-stack project.
+- [Sistema de Xadrez](https://github.com/carlossalustiano/chess-system-java): Sistema de jogo de xadrez.
+- [Conversor de Dinheiro](https://github.com/carlossalustiano/conversor-dinheiro): Permite a conversão entre dólar e real ou real para dólar.
 
 ---
 
