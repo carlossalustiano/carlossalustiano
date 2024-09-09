@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Carlos Eduardo</h1>
-  <p><strong>Front-end Developer | Evolving into Full-Stack Developer</strong></p>
+  <p><strong>Desenvolvedor Front-End | Evoluindo para Desenvolvedor Full-Stack</strong></p>
 </div>
 
 ---
