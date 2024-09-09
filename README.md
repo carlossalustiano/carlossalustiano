@@ -1,5 +1,3 @@
-<br>
-
 <div align="center">
   <h1>Hi, I'm Carlos Eduardo</h1>
   <p><strong>Front-end Developer | Evolving into Full-Stack Developer</strong></p>
