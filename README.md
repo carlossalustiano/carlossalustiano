@@ -12,6 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalustiano&theme=dark&layout=compact&bg_color=0D1117&border_color=00BFFF&text_color=FFF" alt="Top Languages" width="357" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" width="600" />
+</div>
+
 ---
 
 ## 📁 Main Projects
