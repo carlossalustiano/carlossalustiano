@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Carlos Eduardo</h1>
-  <p><strong>Desenvolvedor Front-End | Evoluindo para Desenvolvedor Full-Stack</strong></p>
+  <p><strong>Full-stack developer, residing in Recife, PE - Brazil</strong></p>
 </div>
 
 ---
