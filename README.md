@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Carlos Eduardo</h1>
-  <p><strong>Full-stack developer, residing in Recife, PE - Brazil</strong></p>
+  <p><strong>Front-end developer, residing in Recife, PE - Brazil</strong></p>
 </div>
 
 ---
