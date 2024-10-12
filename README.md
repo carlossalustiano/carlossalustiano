@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="font-size: 2.5em;">Hello, welcome to Carlos Eduardo's portfolio.</h1>
-  <p style="font-size: 1.2em;"><strong>Front-end developer, residing in Recife, PE - Brazil</strong></p>
+  <h1 style="font-size: 2.5em; font-family: 'Arial', sans-serif;">Hello, welcome to Carlos Eduardo's portfolio.</h1>
+  <p style="font-size: 1.2em; font-family: 'Arial', sans-serif;"><strong>Front-end developer, residing in Recife, PE - Brazil</strong></p>
 </div>
 
 ---
@@ -8,12 +8,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlossalustiano&show_icons=true&bg_color=0D1117&hide_border=true&text_color=ffffff" alt="GitHub Stats" width="398" style="opacity: 1.0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalustiano&layout=compact&bg_color=0D1117&hide_border=true&text_color=ffffff" alt="Top Languages" width="357" style="opacity: 1.0;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlossalustiano&show_icons=true&bg_color=0D1117&hide_border=true&text_color=ffffff" alt="GitHub Stats" width="398" style="opacity: 0.9; border-radius: 8px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalustiano&layout=compact&bg_color=0D1117&hide_border=true&text_color=ffffff" alt="Top Languages" width="357" style="opacity: 0.9; border-radius: 8px;" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" width="600" style="opacity: 0.8;" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" width="600" style="opacity: 0.7; border-radius: 8px;" />
 </div>
 
 ---
