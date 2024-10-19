@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 2.5em; font-family: 'Arial', sans-serif;">Hello, welcome to Carlos Eduardo's portfolio.</h1>
-  <p style="font-size: 1.2em; font-family: 'Arial', sans-serif;"><strong>Front-end developer, residing in Recife, PE - Brazil</strong></p>
+  <p style="font-size: 1.2em; font-family: 'Arial', sans-serif;"><strong>Full-stack Developer, residing in Recife, PE - Brazil</strong></p>
 </div>
 
 ---
