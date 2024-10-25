@@ -5,7 +5,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔍 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlossalustiano&show_icons=true&bg_color=0D1117&hide_border=true&text_color=ffffff" alt="GitHub Stats" width="398" style="opacity: 0.9; border-radius: 8px;" />
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" width="600" style="opacity: 0.7; border-radius: 8px;" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" width="740" style="opacity: 0.7; border-radius: 8px;" />
 </div>
 
 ---
@@ -36,8 +36,8 @@
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 - ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-- ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 - ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 **Databases**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -46,8 +46,6 @@
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**IDEs**
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 **Operating Systems**
